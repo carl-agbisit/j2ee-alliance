@@ -7,3 +7,5 @@ Activity 3 - HelloWorld (Servlet Implementation of HelloWorld & Other Input Type
 Activity 4 - HelloWorld_1 (Servlet Forwarding depending on String value)<br>
 Activity 5 - HelloWorld_2 (JSP Redirection from Servlet dependent on String value)<br>
 Activity 6 - LoginMVC (Simple Login using MVC w/ Servlets & JSP w/ Session Variable)<br>
+Activity 7 - LogInOutMVC (Extension of Act6 w/ Logout Functionality)<br>
+Activity 8 - LogInOutMVCDB (DB Integration of Act7 w/ CRUD Functionality)<br>
