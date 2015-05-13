@@ -9,3 +9,4 @@ Activity 5 - HelloWorld_2 (JSP Redirection from Servlet dependent on String valu
 Activity 6 - LoginMVC (Simple Login using MVC w/ Servlets & JSP w/ Session Variable)<br>
 Activity 7 - LogInOutMVC (Extension of Act6 w/ Logout Functionality)<br>
 Activity 8 - LogInOutMVCDB (DB Integration of Act7 w/ CRUD Functionality)<br>
+Activity 9 - LogMVCFilter (Adding Filters & Listeners)<br>
